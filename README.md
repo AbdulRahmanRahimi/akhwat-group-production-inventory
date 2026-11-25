@@ -1,6 +1,6 @@
 # Akhwat Group: Production & Inventory System
 
-> **Client project** · Built by [Rahimi Tech Solution](https://github.com/rahimiabdulrahmanab) · The source code is private to the client.
+> **Client project** · Built by [Rahimi Tech Solution](https://github.com/AbdulRahmanRahimi) · The source code is private to the client.
 
 A production, inventory and quality-control system for **Akhwat Group**, a veterinary medicine manufacturer and raw-material trader in Jalalabad, Afghanistan. Staff use it every day for purchasing, stock, sales, quality control and production costing.
 
